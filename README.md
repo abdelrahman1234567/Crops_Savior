@@ -16,6 +16,13 @@
  &nbsp; &nbsp; &nbsp; &nbsp;  The highest estimated biophysical yield losses are seen in maize, sugarcane, and fruits and vegetables. Our solution to that problem is to create an IoT system that has different systems and every system measures certain variable from the factors that affect and lead to that roblem and then predict their values in the future and connect those different systems in one place by a communication system between them that collects and organizes all the data and based on that using those values, we can determine the extent of the problem in the future and predict what We'll go through it later.<br><br>
  &nbsp; &nbsp; &nbsp; &nbsp;  One of the previous solutions that were used to try to solve this problem was AIoT – measurement and reporting integration. With a plethora of databases and systems associated with various carbon-producing assets, the amount of time and effort necessary to merely categorize and organize data from several business units and assets is enormous. An IoT connection enables real-time activity-level data and asset inventory data to be sourced from several systems in a seamless manner. This enables an organization to organize, gather, and turn data into reports for accurate emissions monitoring and measurement, lowering total data collecting efforts and improving data quality and report resolution.<br><br>
  
+<h2>Prototype Pictures</h2>
 <a href="https://ibb.co/pjrk83d"><img src="https://i.ibb.co/v4vMGJk/Whats-App-Image-2023-01-19-at-7-12-4xczcxz3-PM.jpg" alt="Whats-App-Image-2023-01-19-at-7-12-4xczcxz3-PM" border="0" height="35%" width="35%"></a>
 <a href="https://ibb.co/x1SjMz0"><img src="https://i.ibb.co/m9CqHhw/Whats-App-Image-2023-01123-19-at-7-12-44-PM.jpg" alt="Whats-App-Image-2023-01123-19-at-7-12-44-PM" border="0" height="35%" width="35%"></a>
 <a href="https://ibb.co/stqB7qL"><img src="https://i.ibb.co/KmW1nWC/Whats-App-Image-2023-01-19-at-7-12-42-PM.jpg" alt="Whats-App-Image-2023-01-19-at-7-12-42-PM" border="0" height="35%" width="35%"></a>
+
+<h2>Graphical User Interface Pictures</h2>
+<a href="https://ibb.co/P5fXxn7"><img src="https://i.ibb.co/vJKy1G7/Ca1pture.png" alt="Ca1pture" border="0" height="35%" width="35%"></a>
+<a href="https://ibb.co/nnQTp5g"><img src="https://i.ibb.co/yYgD2bf/Captu2re.png" alt="Captu2re" border="0" height="35%" width="35%"></a>
+<a href="https://ibb.co/TtPsVb6"><img src="https://i.ibb.co/x6zNpfW/Captu3re.png" alt="Captu3re" border="0" height="35%" width="35%"></a>
+<a href="https://ibb.co/8myLdv4"><img src="https://i.ibb.co/YN5FynT/Captu4re.png" alt="Captu4re" border="0" height="35%" width="35%"></a>
