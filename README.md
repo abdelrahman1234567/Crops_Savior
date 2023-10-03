@@ -32,7 +32,7 @@ At Crops Savior, we've made it our mission to integrate climate change into Egyp
 <img src="https://i.ibb.co/KmW1nWC/Whats-App-Image-2023-01-19-at-7-12-42-PM.jpg" alt="Prototype 3" height = "178" width = "250">
 
 <h2>Graphical User Interface Pictures</h2>
-<img src="https://i.ibb.co/vJKy1G7/Ca1pture.png" alt="GUI 1"  height = "178" width = "250" align = "right">
-<img src="https://i.ibb.co/yYgD2bf/Captu2re.png" alt="GUI 2" height = "178" width = "250" align = "right">
-<img src="https://i.ibb.co/x6zNpfW/Captu3re.png" alt="GUI 3" height = "178" width = "250">
-<img src="https://i.ibb.co/YN5FynT/Captu4re.png" alt="GUI 4" height = "178" width = "250">
+<img src="https://i.ibb.co/vJKy1G7/Ca1pture.png" alt="GUI 1"  height = "188" width = "270" align = "right">
+<img src="https://i.ibb.co/yYgD2bf/Captu2re.png" alt="GUI 2" height = "188" width = "270" align = "right">
+<img src="https://i.ibb.co/x6zNpfW/Captu3re.png" alt="GUI 3" height = "188" width = "270">
+<img src="https://i.ibb.co/YN5FynT/Captu4re.png" alt="GUI 4" height = "188" width = "270">
